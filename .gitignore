@@ -1,0 +1,11 @@
+node_modules/
+postgres-data/
+*.log
+
+# vim
+*.swp
+*.swo
+
+.DS_Store
+
+.vscode/
